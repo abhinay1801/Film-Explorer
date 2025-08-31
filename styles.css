@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#input{
+    margin-top: 1.2rem;
+    margin-right: 1rem;
+    width:20rem;
+    height:1.3rem;
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+}
+#button{
+    height: 2rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+.info{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    
+}
+.movie-image{
+    border-radius: 1.2rem;
+    height: 20rem;
+    width:15rem;
+    margin-right: 3rem;
+}
