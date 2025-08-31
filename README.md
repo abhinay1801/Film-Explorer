@@ -14,6 +14,5 @@ Search for any movie and instantly get details like **title, year, language, dir
   - Cast (Actors)  
   - Plot Summary  
   - IMDb Rating  
-- Handles invalid/empty searches with alerts  
 
 
